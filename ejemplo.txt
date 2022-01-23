@@ -2,4 +2,5 @@
 *
 *Estas tres primeras líneas estaban escritas inicialmente
 *
-*Esta es la copia local
+<<<<<<< HEAD
+*Esta es la copia local y de Github
